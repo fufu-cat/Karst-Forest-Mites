@@ -1,0 +1,386 @@
+Source,Target,weight,weight_abs,cor_sign,Source1,Target1,Source1_Target1,Association
+X.1..Trachytes,X.14..Zercon,0.92,0.92,1,pred ,pred ,pred _pred ,in_pred
+X.1..Trachytes,X.15..Neogamasus,0.857492926,0.857492926,1,pred ,pred ,pred _pred ,in_pred
+X.1..Trachytes,X.27..Gamasholaspis,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.1..Trachytes,X.40..Epidamaeus,0.821583836,0.821583836,1,pred ,fungi,pred _fungi,pred_fungi
+X.1..Trachytes,X.70..Scutovertex,1,1,1,pred ,decomp,pred _decomp,pred_decomp
+X.1..Trachytes,X.75..Perscheloribates,0.845154255,0.845154255,1,pred ,fungi,pred _fungi,pred_fungi
+X.2..Uropoda,X.3..Discourella,0.821583836,0.821583836,1,pred ,pred ,pred _pred ,in_pred
+X.2..Uropoda,X.19..Veigaia,0.8610584,0.8610584,1,pred ,pred ,pred _pred ,in_pred
+X.2..Uropoda,X.74..Scheloribates,0.83323809,0.83323809,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Discourella,X.19..Veigaia,0.857492926,0.857492926,1,pred ,pred ,pred _pred ,in_pred
+X.3..Discourella,X.29..Afronothrus,0.876356092,0.876356092,1,pred ,decomp,pred _decomp,pred_decomp
+X.3..Discourella,X.57..Allosuctobelba,0.821583836,0.821583836,1,pred ,decomp,pred _decomp,pred_decomp
+X.3..Discourella,X.69..Tectocepheus,0.821583836,0.821583836,1,pred ,decomp,pred _decomp,pred_decomp
+X.4..Nenteria,X.31..Pachyseius,0.867647059,0.867647059,1,pred ,pred ,pred _pred ,in_pred
+X.4..Nenteria,X.36..Podocinum,0.925476223,0.925476223,1,pred ,pred ,pred _pred ,in_pred
+X.4..Nenteria,X.24..Nothrus,0.81167945,0.81167945,1,pred ,fungi,pred _fungi,pred_fungi
+X.4..Nenteria,X.68..Medioppia,0.857492926,0.857492926,1,pred ,pred ,pred _pred ,in_pred
+X.5..Dinychus,X.24..Gamasiphis,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.5..Dinychus,X.44..Alloparasitus,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.5..Dinychus,X.44..Ctenobelba,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.5..Dinychus,X.67..Lauroppia,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.6..Uroobovella,X.60..Oppia,-0.844162289,0.844162289,-1,pred ,pred ,pred _pred ,in_pred
+X.6..Uroobovella,X.74..Scheloribates,-0.8196886,0.8196886,-1,pred ,fungi,pred _fungi,pred_fungi
+X.6..Uroobovella,X.85..Vilhenabates,0.8932596,0.8932596,1,pred ,fungi,pred _fungi,pred_fungi
+X.7..Oplitis,X.18..Parasitus,0.857492926,0.857492926,1,pred ,pred ,pred _pred ,in_pred
+X.7..Oplitis,X.21..Dendrolaelaps,0.89802651,0.89802651,1,pred ,pred ,pred _pred ,in_pred
+X.7..Oplitis,X.22..Rhodacarus,0.845154255,0.845154255,1,pred ,pred ,pred _pred ,in_pred
+X.7..Oplitis,X.26..Macrocheles,0.857492926,0.857492926,1,pred ,pred ,pred _pred ,in_pred
+X.7..Oplitis,X.29..Parholaspulus,0.845154255,0.845154255,1,pred ,pred ,pred _pred ,in_pred
+X.7..Oplitis,X.3..Hypochthonius,0.845154255,0.845154255,1,pred ,pred ,pred _pred ,in_pred
+X.7..Oplitis,X.12..Epilohmannia,0.845154255,0.845154255,1,pred ,decomp,pred _decomp,pred_decomp
+X.7..Oplitis,X.25..Crotonia,0.876356092,0.876356092,1,pred ,decomp,pred _decomp,pred_decomp
+X.7..Oplitis,X.40..Epidamaeus,0.821583836,0.821583836,1,pred ,fungi,pred _fungi,pred_fungi
+X.7..Oplitis,X.41..Eremulus,0.826184389,0.826184389,1,pred ,fungi,pred _fungi,pred_fungi
+X.7..Oplitis,X.54..Nippobodes,0.979795897,0.979795897,1,pred ,decomp,pred _decomp,pred_decomp
+X.7..Oplitis,X.60..Oppia,-0.835572749,0.835572749,-1,pred ,pred ,pred _pred ,in_pred
+X.7..Oplitis,X.61..Oppiella,0.857492926,0.857492926,1,pred ,pred ,pred _pred ,in_pred
+X.7..Oplitis,X.72..Protokalumma,0.876356092,0.876356092,1,pred ,fungi,pred _fungi,pred_fungi
+X.7..Oplitis,X.77..Rostrozetes,0.857492926,0.857492926,1,pred ,fungi,pred _fungi,pred_fungi
+X.7..Oplitis,X.80..Peloribates,0.845154255,0.845154255,1,pred ,fungi,pred _fungi,pred_fungi
+X.7..Oplitis,X.84..Setoxylobates,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.7..Oplitis,X.87..Galumna,0.845154255,0.845154255,1,pred ,fungi,pred _fungi,pred_fungi
+X.7..Oplitis,X.89..Trichogalumna,0.845154255,0.845154255,1,pred ,fungi,pred _fungi,pred_fungi
+X.7..Oplitis,X.91..Galumnella,0.876356092,0.876356092,1,pred ,fungi,pred _fungi,pred_fungi
+X.9..Metazercon,X.10..Parazercon,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.9..Metazercon,X.13..Syskenozercon,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.9..Metazercon,X.32..Amblyseius,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.9..Metazercon,X.42..Laelaspis,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.9..Metazercon,X.16..Synichotritia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.9..Metazercon,X.19..Hoplophthiracarus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.9..Metazercon,X.26..Holonothrus,1,1,1,pred ,decomp,pred _decomp,pred_decomp
+X.9..Metazercon,X.33..Trimalaconothrus,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.9..Metazercon,X.35..Cyrthermannia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.9..Metazercon,X.39..Damaeus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.10..Parazercon,X.13..Syskenozercon,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.10..Parazercon,X.32..Amblyseius,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.10..Parazercon,X.42..Laelaspis,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.10..Parazercon,X.16..Synichotritia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.10..Parazercon,X.19..Hoplophthiracarus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.10..Parazercon,X.26..Holonothrus,1,1,1,pred ,decomp,pred _decomp,pred_decomp
+X.10..Parazercon,X.33..Trimalaconothrus,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.10..Parazercon,X.35..Cyrthermannia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.10..Parazercon,X.39..Damaeus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.13..Syskenozercon,X.32..Amblyseius,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.13..Syskenozercon,X.42..Laelaspis,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.13..Syskenozercon,X.16..Synichotritia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.13..Syskenozercon,X.19..Hoplophthiracarus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.13..Syskenozercon,X.26..Holonothrus,1,1,1,pred ,decomp,pred _decomp,pred_decomp
+X.13..Syskenozercon,X.33..Trimalaconothrus,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.13..Syskenozercon,X.35..Cyrthermannia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.13..Syskenozercon,X.39..Damaeus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.14..Zercon,X.27..Gamasholaspis,0.92,0.92,1,pred ,pred ,pred _pred ,in_pred
+X.14..Zercon,X.40..Cosmolaelaps,0.845154255,0.845154255,1,pred ,pred ,pred _pred ,in_pred
+X.14..Zercon,X.70..Scutovertex,0.92,0.92,1,pred ,decomp,pred _decomp,pred_decomp
+X.14..Zercon,X.81..Xylobates,0.845154255,0.845154255,1,pred ,fungi,pred _fungi,pred_fungi
+X.15..Neogamasus,X.21..Dendrolaelaps,0.8932596,0.8932596,1,pred ,pred ,pred _pred ,in_pred
+X.15..Neogamasus,X.22..Rhodacarus,0.840668002,0.840668002,1,pred ,pred ,pred _pred ,in_pred
+X.15..Neogamasus,X.27..Gamasholaspis,0.857492926,0.857492926,1,pred ,pred ,pred _pred ,in_pred
+X.15..Neogamasus,X.29..Parholaspulus,0.840668002,0.840668002,1,pred ,pred ,pred _pred ,in_pred
+X.15..Neogamasus,X.40..Cosmolaelaps,0.840668002,0.840668002,1,pred ,pred ,pred _pred ,in_pred
+X.15..Neogamasus,X.43..Ololaelaps,-0.823193209,0.823193209,-1,pred ,pred ,pred _pred ,in_pred
+X.15..Neogamasus,X.2..Eohypochthonius,-0.823193209,0.823193209,-1,pred ,pred ,pred _pred ,in_pred
+X.15..Neogamasus,X.3..Hypochthonius,0.927633657,0.927633657,1,pred ,pred ,pred _pred ,in_pred
+X.15..Neogamasus,X.12..Epilohmannia,0.927633657,0.927633657,1,pred ,decomp,pred _decomp,pred_decomp
+X.15..Neogamasus,X.25..Crotonia,0.845402793,0.845402793,1,pred ,decomp,pred _decomp,pred_decomp
+X.15..Neogamasus,X.40..Epidamaeus,0.939336437,0.939336437,1,pred ,fungi,pred _fungi,pred_fungi
+X.15..Neogamasus,X.57..Allosuctobelba,-0.892369615,0.892369615,-1,pred ,decomp,pred _decomp,pred_decomp
+X.15..Neogamasus,X.69..Tectocepheus,-0.892369615,0.892369615,-1,pred ,decomp,pred _decomp,pred_decomp
+X.15..Neogamasus,X.70..Scutovertex,0.857492926,0.857492926,1,pred ,decomp,pred _decomp,pred_decomp
+X.15..Neogamasus,X.72..Protokalumma,0.845402793,0.845402793,1,pred ,fungi,pred _fungi,pred_fungi
+X.15..Neogamasus,X.75..Perscheloribates,0.985610761,0.985610761,1,pred ,fungi,pred _fungi,pred_fungi
+X.15..Neogamasus,X.80..Peloribates,0.927633657,0.927633657,1,pred ,fungi,pred _fungi,pred_fungi
+X.15..Neogamasus,X.89..Trichogalumna,0.840668002,0.840668002,1,pred ,fungi,pred _fungi,pred_fungi
+X.15..Neogamasus,X.91..Galumnella,0.845402793,0.845402793,1,pred ,fungi,pred _fungi,pred_fungi
+X.16..Vulgarogamasus,X.34..Ameroseius,0.821583836,0.821583836,1,pred ,pred ,pred _pred ,in_pred
+X.18..Parasitus,X.22..Rhodacarus,0.81167945,0.81167945,1,pred ,pred ,pred _pred ,in_pred
+X.18..Parasitus,X.26..Macrocheles,0.955882353,0.955882353,1,pred ,pred ,pred _pred ,in_pred
+X.18..Parasitus,X.29..Parholaspulus,0.81167945,0.81167945,1,pred ,pred ,pred _pred ,in_pred
+X.18..Parasitus,X.38..Lasioseius,0.81167945,0.81167945,1,pred ,pred ,pred _pred ,in_pred
+X.18..Parasitus,X.3..Hypochthonius,0.898645105,0.898645105,1,pred ,pred ,pred _pred ,in_pred
+X.18..Parasitus,X.12..Epilohmannia,0.81167945,0.81167945,1,pred ,decomp,pred _decomp,pred_decomp
+X.18..Parasitus,X.14..Rhysotritia,0.927633657,0.927633657,1,pred ,fungi,pred _fungi,pred_fungi
+X.18..Parasitus,X.54..Nippobodes,0.84016805,0.84016805,1,pred ,decomp,pred _decomp,pred_decomp
+X.18..Parasitus,X.80..Peloribates,0.898645105,0.898645105,1,pred ,fungi,pred _fungi,pred_fungi
+X.18..Parasitus,X.84..Setoxylobates,0.857492926,0.857492926,1,pred ,fungi,pred _fungi,pred_fungi
+X.18..Parasitus,X.87..Galumna,0.985610761,0.985610761,1,pred ,fungi,pred _fungi,pred_fungi
+X.18..Parasitus,X.89..Trichogalumna,0.81167945,0.81167945,1,pred ,fungi,pred _fungi,pred_fungi
+X.19..Veigaia,X.29..Afronothrus,0.876714008,0.876714008,1,pred ,decomp,pred _decomp,pred_decomp
+X.21..Dendrolaelaps,X.22..Rhodacarus,0.941123948,0.941123948,1,pred ,pred ,pred _pred ,in_pred
+X.21..Dendrolaelaps,X.29..Parholaspulus,0.941123948,0.941123948,1,pred ,pred ,pred _pred ,in_pred
+X.21..Dendrolaelaps,X.3..Hypochthonius,0.941123948,0.941123948,1,pred ,pred ,pred _pred ,in_pred
+X.21..Dendrolaelaps,X.12..Epilohmannia,0.941123948,0.941123948,1,pred ,decomp,pred _decomp,pred_decomp
+X.21..Dendrolaelaps,X.25..Crotonia,0.983738754,0.983738754,1,pred ,decomp,pred _decomp,pred_decomp
+X.21..Dendrolaelaps,X.40..Epidamaeus,0.983738754,0.983738754,1,pred ,fungi,pred _fungi,pred_fungi
+X.21..Dendrolaelaps,X.41..Eremulus,0.935483871,0.935483871,1,pred ,fungi,pred _fungi,pred_fungi
+X.21..Dendrolaelaps,X.54..Nippobodes,0.87988269,0.87988269,1,pred ,decomp,pred _decomp,pred_decomp
+X.21..Dendrolaelaps,X.57..Allosuctobelba,-0.885364878,0.885364878,-1,pred ,decomp,pred _decomp,pred_decomp
+X.21..Dendrolaelaps,X.61..Oppiella,0.954863711,0.954863711,1,pred ,pred ,pred _pred ,in_pred
+X.21..Dendrolaelaps,X.69..Tectocepheus,-0.885364878,0.885364878,-1,pred ,decomp,pred _decomp,pred_decomp
+X.21..Dendrolaelaps,X.72..Protokalumma,0.983738754,0.983738754,1,pred ,fungi,pred _fungi,pred_fungi
+X.21..Dendrolaelaps,X.75..Perscheloribates,0.880406274,0.880406274,1,pred ,fungi,pred _fungi,pred_fungi
+X.21..Dendrolaelaps,X.77..Rostrozetes,0.954863711,0.954863711,1,pred ,fungi,pred _fungi,pred_fungi
+X.21..Dendrolaelaps,X.80..Peloribates,0.941123948,0.941123948,1,pred ,fungi,pred _fungi,pred_fungi
+X.21..Dendrolaelaps,X.84..Setoxylobates,0.89802651,0.89802651,1,pred ,fungi,pred _fungi,pred_fungi
+X.21..Dendrolaelaps,X.89..Trichogalumna,0.941123948,0.941123948,1,pred ,fungi,pred _fungi,pred_fungi
+X.21..Dendrolaelaps,X.90..Porogalumnella,0.8932596,0.8932596,1,pred ,fungi,pred _fungi,pred_fungi
+X.21..Dendrolaelaps,X.91..Galumnella,0.983738754,0.983738754,1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.26..Macrocheles,0.81167945,0.81167945,1,pred ,pred ,pred _pred ,in_pred
+X.22..Rhodacarus,X.29..Parholaspulus,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.22..Rhodacarus,X.30..Pachylaelaps,0.898645105,0.898645105,1,pred ,pred ,pred _pred ,in_pred
+X.22..Rhodacarus,X.40..Cosmolaelaps,0.828571429,0.828571429,1,pred ,pred ,pred _pred ,in_pred
+X.22..Rhodacarus,X.3..Hypochthonius,0.942857143,0.942857143,1,pred ,pred ,pred _pred ,in_pred
+X.22..Rhodacarus,X.12..Epilohmannia,0.828571429,0.828571429,1,pred ,decomp,pred _decomp,pred_decomp
+X.22..Rhodacarus,X.25..Crotonia,0.9258201,0.9258201,1,pred ,decomp,pred _decomp,pred_decomp
+X.22..Rhodacarus,X.34..Nanhermannia,-0.828078671,0.828078671,-1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.40..Epidamaeus,0.9258201,0.9258201,1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.41..Eremulus,0.880406274,0.880406274,1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.54..Nippobodes,0.828078671,0.828078671,1,pred ,decomp,pred _decomp,pred_decomp
+X.22..Rhodacarus,X.61..Oppiella,0.985610761,0.985610761,1,pred ,pred ,pred _pred ,in_pred
+X.22..Rhodacarus,X.72..Protokalumma,0.9258201,0.9258201,1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.75..Perscheloribates,0.885714286,0.885714286,1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.77..Rostrozetes,0.898645105,0.898645105,1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.80..Peloribates,0.942857143,0.942857143,1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.84..Setoxylobates,0.845154255,0.845154255,1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.89..Trichogalumna,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.90..Porogalumnella,0.927633657,0.927633657,1,pred ,fungi,pred _fungi,pred_fungi
+X.22..Rhodacarus,X.91..Galumnella,0.9258201,0.9258201,1,pred ,fungi,pred _fungi,pred_fungi
+X.24..Gamasiphis,X.44..Alloparasitus,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.24..Gamasiphis,X.44..Ctenobelba,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.24..Gamasiphis,X.67..Lauroppia,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.26..Macrocheles,X.29..Parholaspulus,0.81167945,0.81167945,1,pred ,pred ,pred _pred ,in_pred
+X.26..Macrocheles,X.30..Pachylaelaps,0.867647059,0.867647059,1,pred ,pred ,pred _pred ,in_pred
+X.26..Macrocheles,X.3..Hypochthonius,0.81167945,0.81167945,1,pred ,pred ,pred _pred ,in_pred
+X.26..Macrocheles,X.14..Rhysotritia,0.898645105,0.898645105,1,pred ,fungi,pred _fungi,pred_fungi
+X.26..Macrocheles,X.24..Nothrus,0.898645105,0.898645105,1,pred ,fungi,pred _fungi,pred_fungi
+X.26..Macrocheles,X.54..Nippobodes,0.84016805,0.84016805,1,pred ,decomp,pred _decomp,pred_decomp
+X.26..Macrocheles,X.80..Peloribates,0.81167945,0.81167945,1,pred ,fungi,pred _fungi,pred_fungi
+X.26..Macrocheles,X.84..Setoxylobates,0.857492926,0.857492926,1,pred ,fungi,pred _fungi,pred_fungi
+X.26..Macrocheles,X.87..Galumna,0.985610761,0.985610761,1,pred ,fungi,pred _fungi,pred_fungi
+X.26..Macrocheles,X.89..Trichogalumna,0.81167945,0.81167945,1,pred ,fungi,pred _fungi,pred_fungi
+X.27..Gamasholaspis,X.40..Epidamaeus,0.821583836,0.821583836,1,pred ,fungi,pred _fungi,pred_fungi
+X.27..Gamasholaspis,X.70..Scutovertex,1,1,1,pred ,decomp,pred _decomp,pred_decomp
+X.27..Gamasholaspis,X.75..Perscheloribates,0.845154255,0.845154255,1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.30..Pachylaelaps,0.898645105,0.898645105,1,pred ,pred ,pred _pred ,in_pred
+X.29..Parholaspulus,X.40..Cosmolaelaps,0.828571429,0.828571429,1,pred ,pred ,pred _pred ,in_pred
+X.29..Parholaspulus,X.3..Hypochthonius,0.942857143,0.942857143,1,pred ,pred ,pred _pred ,in_pred
+X.29..Parholaspulus,X.12..Epilohmannia,0.828571429,0.828571429,1,pred ,decomp,pred _decomp,pred_decomp
+X.29..Parholaspulus,X.25..Crotonia,0.9258201,0.9258201,1,pred ,decomp,pred _decomp,pred_decomp
+X.29..Parholaspulus,X.34..Nanhermannia,-0.828078671,0.828078671,-1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.40..Epidamaeus,0.9258201,0.9258201,1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.41..Eremulus,0.880406274,0.880406274,1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.54..Nippobodes,0.828078671,0.828078671,1,pred ,decomp,pred _decomp,pred_decomp
+X.29..Parholaspulus,X.61..Oppiella,0.985610761,0.985610761,1,pred ,pred ,pred _pred ,in_pred
+X.29..Parholaspulus,X.72..Protokalumma,0.9258201,0.9258201,1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.75..Perscheloribates,0.885714286,0.885714286,1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.77..Rostrozetes,0.898645105,0.898645105,1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.80..Peloribates,0.942857143,0.942857143,1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.84..Setoxylobates,0.845154255,0.845154255,1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.89..Trichogalumna,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.90..Porogalumnella,0.927633657,0.927633657,1,pred ,fungi,pred _fungi,pred_fungi
+X.29..Parholaspulus,X.91..Galumnella,0.9258201,0.9258201,1,pred ,fungi,pred _fungi,pred_fungi
+X.30..Pachylaelaps,X.24..Nothrus,0.927633657,0.927633657,1,pred ,fungi,pred _fungi,pred_fungi
+X.30..Pachylaelaps,X.34..Nanhermannia,-0.84016805,0.84016805,-1,pred ,fungi,pred _fungi,pred_fungi
+X.30..Pachylaelaps,X.61..Oppiella,0.882352941,0.882352941,1,pred ,pred ,pred _pred ,in_pred
+X.30..Pachylaelaps,X.89..Trichogalumna,0.898645105,0.898645105,1,pred ,fungi,pred _fungi,pred_fungi
+X.31..Pachyseius,X.36..Podocinum,0.850841043,0.850841043,1,pred ,pred ,pred _pred ,in_pred
+X.31..Pachyseius,X.66..Lasiobelba,0.845402793,0.845402793,1,pred ,pred ,pred _pred ,in_pred
+X.31..Pachyseius,X.68..Medioppia,0.857492926,0.857492926,1,pred ,pred ,pred _pred ,in_pred
+X.31..Pachyseius,X.71..Neoribates,0.891132789,0.891132789,1,pred ,fungi,pred _fungi,pred_fungi
+X.32..Amblyseius,X.42..Laelaspis,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.32..Amblyseius,X.16..Synichotritia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.32..Amblyseius,X.19..Hoplophthiracarus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.32..Amblyseius,X.26..Holonothrus,1,1,1,pred ,decomp,pred _decomp,pred_decomp
+X.32..Amblyseius,X.33..Trimalaconothrus,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.32..Amblyseius,X.35..Cyrthermannia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.32..Amblyseius,X.39..Damaeus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.34..Ameroseius,X.23..Heminothrus,0.92,0.92,1,pred ,decomp,pred _decomp,pred_decomp
+X.36..Podocinum,X.71..Neoribates,0.904534034,0.904534034,1,pred ,fungi,pred _fungi,pred_fungi
+X.36..Podocinum,X.81..Xylobates,0.88273483,0.88273483,1,pred ,fungi,pred _fungi,pred_fungi
+X.37..Cheiroseius,X.60..Oppia,0.850841043,0.850841043,1,pred ,pred ,pred _pred ,in_pred
+X.37..Cheiroseius,X.77..Rostrozetes,-0.838235294,0.838235294,-1,pred ,fungi,pred _fungi,pred_fungi
+X.38..Lasioseius,X.1..Archoplophora,0.81167945,0.81167945,1,pred ,fungi,pred _fungi,pred_fungi
+X.38..Lasioseius,X.14..Rhysotritia,0.942857143,0.942857143,1,pred ,fungi,pred _fungi,pred_fungi
+X.38..Lasioseius,X.47..Ceratoppia,0.845154255,0.845154255,1,pred ,decomp,pred _decomp,pred_decomp
+X.38..Lasioseius,X.87..Galumna,0.828571429,0.828571429,1,pred ,fungi,pred _fungi,pred_fungi
+X.39..Proctolaelaps,X.42..Eremobelba,0.828078671,0.828078671,1,pred ,fungi,pred _fungi,pred_fungi
+X.39..Proctolaelaps,X.62..Ramusella,0.894427191,0.894427191,1,pred ,pred ,pred _pred ,in_pred
+X.40..Cosmolaelaps,X.34..Nanhermannia,-0.828078671,0.828078671,-1,pred ,fungi,pred _fungi,pred_fungi
+X.40..Cosmolaelaps,X.40..Epidamaeus,0.83323809,0.83323809,1,pred ,fungi,pred _fungi,pred_fungi
+X.40..Cosmolaelaps,X.61..Oppiella,0.81167945,0.81167945,1,pred ,pred ,pred _pred ,in_pred
+X.40..Cosmolaelaps,X.75..Perscheloribates,0.885714286,0.885714286,1,pred ,fungi,pred _fungi,pred_fungi
+X.40..Cosmolaelaps,X.81..Xylobates,0.828571429,0.828571429,1,pred ,fungi,pred _fungi,pred_fungi
+X.40..Cosmolaelaps,X.89..Trichogalumna,0.828571429,0.828571429,1,pred ,fungi,pred _fungi,pred_fungi
+X.41..Geolaelaps,X.34..Nanhermannia,-0.84016805,0.84016805,-1,pred ,fungi,pred _fungi,pred_fungi
+X.41..Geolaelaps,X.58..Suctobelbella,0.857492926,0.857492926,1,pred ,fungi,pred _fungi,pred_fungi
+X.41..Geolaelaps,X.66..Lasiobelba,0.8610584,0.8610584,1,pred ,pred ,pred _pred ,in_pred
+X.42..Laelaspis,X.16..Synichotritia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.42..Laelaspis,X.19..Hoplophthiracarus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.42..Laelaspis,X.26..Holonothrus,1,1,1,pred ,decomp,pred _decomp,pred_decomp
+X.42..Laelaspis,X.33..Trimalaconothrus,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.42..Laelaspis,X.35..Cyrthermannia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.42..Laelaspis,X.39..Damaeus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.43..Ololaelaps,X.2..Eohypochthonius,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.43..Ololaelaps,X.12..Epilohmannia,-0.845154255,0.845154255,-1,pred ,decomp,pred _decomp,pred_decomp
+X.43..Ololaelaps,X.57..Allosuctobelba,0.821583836,0.821583836,1,pred ,decomp,pred _decomp,pred_decomp
+X.43..Ololaelaps,X.69..Tectocepheus,0.821583836,0.821583836,1,pred ,decomp,pred _decomp,pred_decomp
+X.44..Alloparasitus,X.44..Ctenobelba,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.44..Alloparasitus,X.67..Lauroppia,1,1,1,pred ,pred ,pred _pred ,in_pred
+X.1..Archoplophora,X.47..Ceratoppia,0.857492926,0.857492926,1,fungi,decomp,fungi_decomp,fungi_decomp
+X.2..Eohypochthonius,X.12..Epilohmannia,-0.845154255,0.845154255,-1,pred ,decomp,pred _decomp,pred_decomp
+X.2..Eohypochthonius,X.57..Allosuctobelba,0.821583836,0.821583836,1,pred ,decomp,pred _decomp,pred_decomp
+X.2..Eohypochthonius,X.69..Tectocepheus,0.821583836,0.821583836,1,pred ,decomp,pred _decomp,pred_decomp
+X.3..Hypochthonius,X.12..Epilohmannia,0.942857143,0.942857143,1,pred ,decomp,pred _decomp,pred_decomp
+X.3..Hypochthonius,X.25..Crotonia,0.9258201,0.9258201,1,pred ,decomp,pred _decomp,pred_decomp
+X.3..Hypochthonius,X.40..Epidamaeus,0.9258201,0.9258201,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Hypochthonius,X.41..Eremulus,0.880406274,0.880406274,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Hypochthonius,X.54..Nippobodes,0.828078671,0.828078671,1,pred ,decomp,pred _decomp,pred_decomp
+X.3..Hypochthonius,X.57..Allosuctobelba,-0.83323809,0.83323809,-1,pred ,decomp,pred _decomp,pred_decomp
+X.3..Hypochthonius,X.61..Oppiella,0.898645105,0.898645105,1,pred ,pred ,pred _pred ,in_pred
+X.3..Hypochthonius,X.69..Tectocepheus,-0.83323809,0.83323809,-1,pred ,decomp,pred _decomp,pred_decomp
+X.3..Hypochthonius,X.72..Protokalumma,0.9258201,0.9258201,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Hypochthonius,X.75..Perscheloribates,0.942857143,0.942857143,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Hypochthonius,X.77..Rostrozetes,0.81167945,0.81167945,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Hypochthonius,X.80..Peloribates,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Hypochthonius,X.84..Setoxylobates,0.845154255,0.845154255,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Hypochthonius,X.87..Galumna,0.828571429,0.828571429,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Hypochthonius,X.89..Trichogalumna,0.942857143,0.942857143,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Hypochthonius,X.90..Porogalumnella,0.840668002,0.840668002,1,pred ,fungi,pred _fungi,pred_fungi
+X.3..Hypochthonius,X.91..Galumnella,0.9258201,0.9258201,1,pred ,fungi,pred _fungi,pred_fungi
+X.12..Epilohmannia,X.25..Crotonia,0.9258201,0.9258201,1,decomp,decomp,decomp_decomp,in_decomp
+X.12..Epilohmannia,X.40..Epidamaeus,0.9258201,0.9258201,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.12..Epilohmannia,X.41..Eremulus,0.880406274,0.880406274,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.12..Epilohmannia,X.54..Nippobodes,0.828078671,0.828078671,1,decomp,decomp,decomp_decomp,in_decomp
+X.12..Epilohmannia,X.57..Allosuctobelba,-0.9258201,0.9258201,-1,decomp,decomp,decomp_decomp,in_decomp
+X.12..Epilohmannia,X.61..Oppiella,0.81167945,0.81167945,1,decomp,pred ,decomp_pred ,pred_decomp
+X.12..Epilohmannia,X.69..Tectocepheus,-0.9258201,0.9258201,-1,decomp,decomp,decomp_decomp,in_decomp
+X.12..Epilohmannia,X.72..Protokalumma,0.9258201,0.9258201,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.12..Epilohmannia,X.75..Perscheloribates,0.885714286,0.885714286,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.12..Epilohmannia,X.77..Rostrozetes,0.81167945,0.81167945,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.12..Epilohmannia,X.80..Peloribates,0.942857143,0.942857143,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.12..Epilohmannia,X.84..Setoxylobates,0.845154255,0.845154255,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.12..Epilohmannia,X.89..Trichogalumna,0.828571429,0.828571429,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.12..Epilohmannia,X.91..Galumnella,0.9258201,0.9258201,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.14..Rhysotritia,X.87..Galumna,0.942857143,0.942857143,1,fungi,fungi,fungi_fungi,in_fungi
+X.16..Synichotritia,X.19..Hoplophthiracarus,1,1,1,fungi,fungi,fungi_fungi,in_fungi
+X.16..Synichotritia,X.26..Holonothrus,1,1,1,fungi,decomp,fungi_decomp,fungi_decomp
+X.16..Synichotritia,X.33..Trimalaconothrus,1,1,1,fungi,pred ,fungi_pred ,pred_fungi
+X.16..Synichotritia,X.35..Cyrthermannia,1,1,1,fungi,fungi,fungi_fungi,in_fungi
+X.16..Synichotritia,X.39..Damaeus,1,1,1,fungi,fungi,fungi_fungi,in_fungi
+X.19..Hoplophthiracarus,X.26..Holonothrus,1,1,1,fungi,decomp,fungi_decomp,fungi_decomp
+X.19..Hoplophthiracarus,X.33..Trimalaconothrus,1,1,1,fungi,pred ,fungi_pred ,pred_fungi
+X.19..Hoplophthiracarus,X.35..Cyrthermannia,1,1,1,fungi,fungi,fungi_fungi,in_fungi
+X.19..Hoplophthiracarus,X.39..Damaeus,1,1,1,fungi,fungi,fungi_fungi,in_fungi
+X.24..Nothrus,X.68..Medioppia,0.845154255,0.845154255,1,fungi,pred ,fungi_pred ,pred_fungi
+X.24..Nothrus,X.87..Galumna,0.828571429,0.828571429,1,fungi,fungi,fungi_fungi,in_fungi
+X.25..Crotonia,X.40..Epidamaeus,0.95,0.95,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.25..Crotonia,X.41..Eremulus,0.983738754,0.983738754,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.25..Crotonia,X.54..Nippobodes,0.894427191,0.894427191,1,decomp,decomp,decomp_decomp,in_decomp
+X.25..Crotonia,X.57..Allosuctobelba,-0.9,0.9,-1,decomp,decomp,decomp_decomp,in_decomp
+X.25..Crotonia,X.61..Oppiella,0.939336437,0.939336437,1,decomp,pred ,decomp_pred ,pred_decomp
+X.25..Crotonia,X.69..Tectocepheus,-0.9,0.9,-1,decomp,decomp,decomp_decomp,in_decomp
+X.25..Crotonia,X.72..Protokalumma,1,1,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.25..Crotonia,X.75..Perscheloribates,0.83323809,0.83323809,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.25..Crotonia,X.77..Rostrozetes,0.939336437,0.939336437,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.25..Crotonia,X.80..Peloribates,0.9258201,0.9258201,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.25..Crotonia,X.84..Setoxylobates,0.876356092,0.876356092,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.25..Crotonia,X.89..Trichogalumna,0.9258201,0.9258201,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.25..Crotonia,X.90..Porogalumnella,0.939336437,0.939336437,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.25..Crotonia,X.91..Galumnella,1,1,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.26..Holonothrus,X.33..Trimalaconothrus,1,1,1,decomp,pred ,decomp_pred ,pred_decomp
+X.26..Holonothrus,X.35..Cyrthermannia,1,1,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.26..Holonothrus,X.39..Damaeus,1,1,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.29..Afronothrus,X.62..Ramusella,0.85,0.85,1,decomp,pred ,decomp_pred ,pred_decomp
+X.31..Trhypochthonius,X.32..Malaconothrus,1,1,1,fungi,fungi,fungi_fungi,in_fungi
+X.33..Trimalaconothrus,X.35..Cyrthermannia,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.33..Trimalaconothrus,X.39..Damaeus,1,1,1,pred ,fungi,pred _fungi,pred_fungi
+X.34..Nanhermannia,X.61..Oppiella,-0.84016805,0.84016805,-1,fungi,pred ,fungi_pred ,pred_fungi
+X.34..Nanhermannia,X.89..Trichogalumna,-0.828078671,0.828078671,-1,fungi,fungi,fungi_fungi,in_fungi
+X.34..Nanhermannia,X.90..Porogalumnella,-0.84016805,0.84016805,-1,fungi,fungi,fungi_fungi,in_fungi
+X.35..Cyrthermannia,X.39..Damaeus,1,1,1,fungi,fungi,fungi_fungi,in_fungi
+X.40..Epidamaeus,X.41..Eremulus,0.885364878,0.885364878,1,fungi,fungi,fungi_fungi,in_fungi
+X.40..Epidamaeus,X.57..Allosuctobelba,-0.9,0.9,-1,fungi,decomp,fungi_decomp,fungi_decomp
+X.40..Epidamaeus,X.61..Oppiella,0.939336437,0.939336437,1,fungi,pred ,fungi_pred ,pred_fungi
+X.40..Epidamaeus,X.69..Tectocepheus,-0.9,0.9,-1,fungi,decomp,fungi_decomp,fungi_decomp
+X.40..Epidamaeus,X.70..Scutovertex,0.821583836,0.821583836,1,fungi,decomp,fungi_decomp,fungi_decomp
+X.40..Epidamaeus,X.72..Protokalumma,0.95,0.95,1,fungi,fungi,fungi_fungi,in_fungi
+X.40..Epidamaeus,X.75..Perscheloribates,0.9258201,0.9258201,1,fungi,fungi,fungi_fungi,in_fungi
+X.40..Epidamaeus,X.77..Rostrozetes,0.939336437,0.939336437,1,fungi,fungi,fungi_fungi,in_fungi
+X.40..Epidamaeus,X.80..Peloribates,0.9258201,0.9258201,1,fungi,fungi,fungi_fungi,in_fungi
+X.40..Epidamaeus,X.84..Setoxylobates,0.821583836,0.821583836,1,fungi,fungi,fungi_fungi,in_fungi
+X.40..Epidamaeus,X.89..Trichogalumna,0.9258201,0.9258201,1,fungi,fungi,fungi_fungi,in_fungi
+X.40..Epidamaeus,X.90..Porogalumnella,0.845402793,0.845402793,1,fungi,fungi,fungi_fungi,in_fungi
+X.40..Epidamaeus,X.91..Galumnella,0.95,0.95,1,fungi,fungi,fungi_fungi,in_fungi
+X.41..Eremulus,X.54..Nippobodes,0.87988269,0.87988269,1,fungi,decomp,fungi_decomp,fungi_decomp
+X.41..Eremulus,X.57..Allosuctobelba,-0.885364878,0.885364878,-1,fungi,decomp,fungi_decomp,fungi_decomp
+X.41..Eremulus,X.61..Oppiella,0.8932596,0.8932596,1,fungi,pred ,fungi_pred ,pred_fungi
+X.41..Eremulus,X.69..Tectocepheus,-0.885364878,0.885364878,-1,fungi,decomp,fungi_decomp,fungi_decomp
+X.41..Eremulus,X.72..Protokalumma,0.983738754,0.983738754,1,fungi,fungi,fungi_fungi,in_fungi
+X.41..Eremulus,X.77..Rostrozetes,0.8932596,0.8932596,1,fungi,fungi,fungi_fungi,in_fungi
+X.41..Eremulus,X.80..Peloribates,0.880406274,0.880406274,1,fungi,fungi,fungi_fungi,in_fungi
+X.41..Eremulus,X.84..Setoxylobates,0.826184389,0.826184389,1,fungi,fungi,fungi_fungi,in_fungi
+X.41..Eremulus,X.89..Trichogalumna,0.880406274,0.880406274,1,fungi,fungi,fungi_fungi,in_fungi
+X.41..Eremulus,X.90..Porogalumnella,0.954863711,0.954863711,1,fungi,fungi,fungi_fungi,in_fungi
+X.41..Eremulus,X.91..Galumnella,0.983738754,0.983738754,1,fungi,fungi,fungi_fungi,in_fungi
+X.44..Ctenobelba,X.67..Lauroppia,1,1,1,fungi,pred ,fungi_pred ,pred_fungi
+X.54..Nippobodes,X.60..Oppia,-0.852802865,0.852802865,-1,decomp,pred ,decomp_pred ,pred_decomp
+X.54..Nippobodes,X.61..Oppiella,0.84016805,0.84016805,1,decomp,pred ,decomp_pred ,pred_decomp
+X.54..Nippobodes,X.72..Protokalumma,0.894427191,0.894427191,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.54..Nippobodes,X.77..Rostrozetes,0.84016805,0.84016805,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.54..Nippobodes,X.80..Peloribates,0.828078671,0.828078671,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.54..Nippobodes,X.84..Setoxylobates,0.979795897,0.979795897,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.54..Nippobodes,X.85..Vilhenabates,0.84016805,0.84016805,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.54..Nippobodes,X.87..Galumna,0.828078671,0.828078671,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.54..Nippobodes,X.89..Trichogalumna,0.828078671,0.828078671,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.54..Nippobodes,X.90..Porogalumnella,0.84016805,0.84016805,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.54..Nippobodes,X.91..Galumnella,0.894427191,0.894427191,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.57..Allosuctobelba,X.69..Tectocepheus,1,1,1,decomp,decomp,decomp_decomp,in_decomp
+X.57..Allosuctobelba,X.72..Protokalumma,-0.9,0.9,-1,decomp,fungi,decomp_fungi,fungi_decomp
+X.57..Allosuctobelba,X.75..Perscheloribates,-0.83323809,0.83323809,-1,decomp,fungi,decomp_fungi,fungi_decomp
+X.57..Allosuctobelba,X.80..Peloribates,-0.83323809,0.83323809,-1,decomp,fungi,decomp_fungi,fungi_decomp
+X.57..Allosuctobelba,X.91..Galumnella,-0.9,0.9,-1,decomp,fungi,decomp_fungi,fungi_decomp
+X.58..Suctobelbella,X.66..Lasiobelba,0.821583836,0.821583836,1,fungi,pred ,fungi_pred ,pred_fungi
+X.60..Oppia,X.84..Setoxylobates,-0.835572749,0.835572749,-1,pred ,fungi,pred _fungi,pred_fungi
+X.60..Oppia,X.85..Vilhenabates,-0.985184366,0.985184366,-1,pred ,fungi,pred _fungi,pred_fungi
+X.61..Oppiella,X.72..Protokalumma,0.939336437,0.939336437,1,pred ,fungi,pred _fungi,pred_fungi
+X.61..Oppiella,X.75..Perscheloribates,0.840668002,0.840668002,1,pred ,fungi,pred _fungi,pred_fungi
+X.61..Oppiella,X.77..Rostrozetes,0.955882353,0.955882353,1,pred ,fungi,pred _fungi,pred_fungi
+X.61..Oppiella,X.80..Peloribates,0.898645105,0.898645105,1,pred ,fungi,pred _fungi,pred_fungi
+X.61..Oppiella,X.84..Setoxylobates,0.857492926,0.857492926,1,pred ,fungi,pred _fungi,pred_fungi
+X.61..Oppiella,X.89..Trichogalumna,0.985610761,0.985610761,1,pred ,fungi,pred _fungi,pred_fungi
+X.61..Oppiella,X.90..Porogalumnella,0.941176471,0.941176471,1,pred ,fungi,pred _fungi,pred_fungi
+X.61..Oppiella,X.91..Galumnella,0.939336437,0.939336437,1,pred ,fungi,pred _fungi,pred_fungi
+X.66..Lasiobelba,X.71..Neoribates,0.948683298,0.948683298,1,pred ,fungi,pred _fungi,pred_fungi
+X.69..Tectocepheus,X.72..Protokalumma,-0.9,0.9,-1,decomp,fungi,decomp_fungi,fungi_decomp
+X.69..Tectocepheus,X.75..Perscheloribates,-0.83323809,0.83323809,-1,decomp,fungi,decomp_fungi,fungi_decomp
+X.69..Tectocepheus,X.80..Peloribates,-0.83323809,0.83323809,-1,decomp,fungi,decomp_fungi,fungi_decomp
+X.69..Tectocepheus,X.91..Galumnella,-0.9,0.9,-1,decomp,fungi,decomp_fungi,fungi_decomp
+X.70..Scutovertex,X.75..Perscheloribates,0.845154255,0.845154255,1,decomp,fungi,decomp_fungi,fungi_decomp
+X.71..Neoribates,X.81..Xylobates,0.878310066,0.878310066,1,fungi,fungi,fungi_fungi,in_fungi
+X.72..Protokalumma,X.75..Perscheloribates,0.83323809,0.83323809,1,fungi,fungi,fungi_fungi,in_fungi
+X.72..Protokalumma,X.77..Rostrozetes,0.939336437,0.939336437,1,fungi,fungi,fungi_fungi,in_fungi
+X.72..Protokalumma,X.80..Peloribates,0.9258201,0.9258201,1,fungi,fungi,fungi_fungi,in_fungi
+X.72..Protokalumma,X.84..Setoxylobates,0.876356092,0.876356092,1,fungi,fungi,fungi_fungi,in_fungi
+X.72..Protokalumma,X.89..Trichogalumna,0.9258201,0.9258201,1,fungi,fungi,fungi_fungi,in_fungi
+X.72..Protokalumma,X.90..Porogalumnella,0.939336437,0.939336437,1,fungi,fungi,fungi_fungi,in_fungi
+X.72..Protokalumma,X.91..Galumnella,1,1,1,fungi,fungi,fungi_fungi,in_fungi
+X.75..Perscheloribates,X.80..Peloribates,0.942857143,0.942857143,1,fungi,fungi,fungi_fungi,in_fungi
+X.75..Perscheloribates,X.89..Trichogalumna,0.885714286,0.885714286,1,fungi,fungi,fungi_fungi,in_fungi
+X.75..Perscheloribates,X.91..Galumnella,0.83323809,0.83323809,1,fungi,fungi,fungi_fungi,in_fungi
+X.77..Rostrozetes,X.80..Peloribates,0.81167945,0.81167945,1,fungi,fungi,fungi_fungi,in_fungi
+X.77..Rostrozetes,X.84..Setoxylobates,0.857492926,0.857492926,1,fungi,fungi,fungi_fungi,in_fungi
+X.77..Rostrozetes,X.89..Trichogalumna,0.898645105,0.898645105,1,fungi,fungi,fungi_fungi,in_fungi
+X.77..Rostrozetes,X.90..Porogalumnella,0.897058824,0.897058824,1,fungi,fungi,fungi_fungi,in_fungi
+X.77..Rostrozetes,X.91..Galumnella,0.939336437,0.939336437,1,fungi,fungi,fungi_fungi,in_fungi
+X.80..Peloribates,X.84..Setoxylobates,0.845154255,0.845154255,1,fungi,fungi,fungi_fungi,in_fungi
+X.80..Peloribates,X.87..Galumna,0.828571429,0.828571429,1,fungi,fungi,fungi_fungi,in_fungi
+X.80..Peloribates,X.89..Trichogalumna,0.942857143,0.942857143,1,fungi,fungi,fungi_fungi,in_fungi
+X.80..Peloribates,X.90..Porogalumnella,0.840668002,0.840668002,1,fungi,fungi,fungi_fungi,in_fungi
+X.80..Peloribates,X.91..Galumnella,0.9258201,0.9258201,1,fungi,fungi,fungi_fungi,in_fungi
+X.84..Setoxylobates,X.87..Galumna,0.845154255,0.845154255,1,fungi,fungi,fungi_fungi,in_fungi
+X.84..Setoxylobates,X.89..Trichogalumna,0.845154255,0.845154255,1,fungi,fungi,fungi_fungi,in_fungi
+X.84..Setoxylobates,X.91..Galumnella,0.876356092,0.876356092,1,fungi,fungi,fungi_fungi,in_fungi
+X.89..Trichogalumna,X.90..Porogalumnella,0.927633657,0.927633657,1,fungi,fungi,fungi_fungi,in_fungi
+X.89..Trichogalumna,X.91..Galumnella,0.9258201,0.9258201,1,fungi,fungi,fungi_fungi,in_fungi
+X.90..Porogalumnella,X.91..Galumnella,0.939336437,0.939336437,1,fungi,fungi,fungi_fungi,in_fungi
