@@ -1,4 +1,6 @@
 # Karst-forest-mites
+Qiang Wei
+
 1. This repository contains the primary datasets for the study. All statistical analyses were performed using these raw data files:
 
 (1) mite.csv: mite metacommunity data.
@@ -10,7 +12,7 @@
 
 2. The Trophic group.xlsx file documents the methodology and results for assigning mites to trophic groups. It contains:
 
-(1) The application of stable isotope data to classify mite species into their respective trophic functional groups.
+(1) The application of stable isotope data to classify mite into their respective trophic functional groups.
 (2) The resulting community parameters (including alpha diversity, beta diversity, 和 network complexity) for each trophic group, calculated using the averaging method.
 
 
@@ -18,8 +20,8 @@
 
 The following folders contain the resources for ecological network analysis in Gephi:
 
-(1) mite meta-community networks: Data and graphs for the meta-community level network.
-(2) Local community networks from different forest types: Data and graphs for networks specific to each forest type.
+(1) mite meta-community networks: Data and figures for the meta-community level network.
+(2) Local community networks from different forest types: Data and figures for networks specific to each forest type.
 
 Each folder includes:
 
@@ -29,7 +31,7 @@ Each folder includes:
 
 4. Code for Peer Review and Reproducibility
    
-In accordance with journal policy on code submission for peer review, we have provided the complete R code necessary to replicate our study's findings as supplementary material.
+In accordance with journal policy on code submission for peer review, we have provided the complete R code necessary to replicate our study's findings as supporting information.
 This code is currently under embargo but will be archived and publicly accessible upon article acceptance.
 Reviewers can obtain the code and linked datasets for verification by contacting the editorial team. 
 The corresponding metadata necessary to run the scripts can be found in this repository.
