@@ -1,5 +1,4 @@
 # Karst-forest-mites
-Qiang Wei
 
 1. This repository contains the primary datasets for the study. All statistical analyses were performed using these raw data files:
 
