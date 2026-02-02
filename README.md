@@ -34,3 +34,11 @@ In accordance with journal policy on code submission for peer review, we have pr
 This code is currently under embargo but will be archived and publicly accessible upon article acceptance.
 Reviewers can obtain the code and linked datasets for verification by contacting the editorial team. 
 The corresponding metadata necessary to run the scripts can be found in this repository.
+
+5. Supporting Information
+This repository contains the complete Supporting Information PDF file for the related research.
+
+The PDF file includes the following supplementary materials:
+Supplementary Text S1-S3
+Supplementary Tables S1-S10
+Supplementary Figures S1-S4
