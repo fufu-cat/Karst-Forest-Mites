@@ -37,7 +37,9 @@ Each folder includes:
 * (1) In accordance with journal policy on code submission for peer review, we have provided the complete R code necessary to replicate our study's findings as supporting information.   
 * (2) This code is currently under embargo but will be archived and publicly accessible upon article acceptance.  
 * (3) Reviewers can obtain the code and linked datasets for verification by contacting the editorial team.   
-* (4) The corresponding metadata necessary to run the scripts can be found in this repository.  
+* (4) The corresponding metadata necessary to run the scripts can be found in this repository.
+* (5) Karst_forest_mites.R: R script used to reproduce all statistical analyses and visualizations presented in the main text.
+* (6) Supporting_R_code_Reviewer_Comments_2.R: R script used to conduct the additional statistical analyses and generate the visualizations prepared in response to Reviewer 2’s comments.
 
 
 ### 5. Supporting Information
