@@ -48,4 +48,7 @@ This repository contains the complete *Supporting Information* PDF file for the 
 The PDF file includes the following supplementary materials:  
 * (1) Supplementary Text S1-S3;  
 * (2) Supplementary Tables S1-S10;  
-* (3) Supplementary Figures S1-S4.  
+* (3) Supplementary Figures S1-S4.
+
+### 6. Cite this article
+Wei, Q., Zhou, Y., Shen, Y. et al. Assembly processes and ecological network patterns of multitrophic soil mite communities in karst primary forests. Exp Appl Acarol 97, 24 (2026). https://doi.org/10.1007/s10493-026-01180-5
