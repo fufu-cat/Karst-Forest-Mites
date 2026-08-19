@@ -1,8 +1,8 @@
-# Title: (Research article)
+# Title: Assembly processes and ecological network patterns of multitrophic soil mite communities in karst primary forests.
 # Description: The R code was used to generate all statistical results and figures in the main text.
 # Date: November 2025
 # R4.3.2
-
+# Wei, Q., Zhou, Y., Shen, Y. et al. Assembly processes and ecological network patterns of multitrophic soil mite communities in karst primary forests. Exp Appl Acarol 97, 24 (2026). https://doi.org/10.1007/s10493-026-01180-5
 
 
 
